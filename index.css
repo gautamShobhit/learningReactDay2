@@ -1,0 +1,15 @@
+#heading {
+  color: red;
+}
+#parent {
+  color: rgb(179, 141, 233);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#child2 {
+  color: rgb(192, 118, 23);
+}
+#child3 {
+  font-size: larger;
+  color: brown;
+}
